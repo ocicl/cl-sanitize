@@ -2,9 +2,8 @@
 
 Whitelist-based Common Lisp HTML sanitizer
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/archimag/cl-sanitize.git   |
-| commit  | 698745d  |
-| systems | cl-sanitize |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/archimag/cl-sanitize.git |
+| commit  | 698745d                                         |
+| systems | (sanitize)                                      |
+|---------+-------------------------------------------------|
